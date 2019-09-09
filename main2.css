@@ -60,20 +60,3 @@ ul li a.hobbies:hover{
     font-size: 18px;
     font-weight: 300;
 }
-
-.hobbies{
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-}
-
-.hobbies h4{
-    font-size: 55px;
-    font-weight: 300;
-}
-
-.hobbies p{
-    font-size: 18px;
-    font-weight: 300;
-}
