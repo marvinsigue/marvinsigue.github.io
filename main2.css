@@ -32,14 +32,14 @@ ul li a.active{
     color: #2656DB
 }
 
-ul li a.gallery{
+ul li a.hobbies{
     border: 1px solid #fff;
     padding: 5px 20px;
     border-radius: 3px;
     color: #2656DB
 }
 
-ul li a.gallery:hover{
+ul li a.hobbies:hover{
     background-color: #2656DB;
     color: #fff
         
