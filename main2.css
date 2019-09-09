@@ -44,3 +44,21 @@ ul li a.hobbies:hover{
     color: #2656DB
         
 }
+
+.head{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.head h4{
+    font-size: 55px;
+    font-weight: 300;
+}
+
+.head p{
+    font-size: 18px;
+    font-weight: 300; 
+}
+   
