@@ -40,7 +40,7 @@ ul li a.hobbies{
 }
 
 ul li a.hobbies:hover{
-    background-color: #2656DB;
-    color: #fff
+    background-color: #000000;
+    color: #2656DB
         
 }
